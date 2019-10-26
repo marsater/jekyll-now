@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Hem
 permalink: /
 ---
 
@@ -29,6 +29,7 @@ senast den 6 juni 2020 klockan 23:55.
 
 |Sista anmälan | 6 juni 2020 |
 |--------------|-------------|
+|   |   |
 
 
 ### Upplägg
