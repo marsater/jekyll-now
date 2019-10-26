@@ -12,9 +12,9 @@ Besättningen består av 2 till 3 personer från olika klubbar. Man behöver all
 
 [*Se inbjudan*](/_posts/Inbjudan) *för mer detaljerad information*
 
-**Deltagarna** förväntas vara mellan cirka 15 - 25 år.
+*Deltagarna* förväntas vara mellan cirka 15 - 25 år.
 
-**Arrangör är**
+*Arrangör är*
 *(EkBK) Ekerö Båtklubb - en båtklubb i mälaren*
 
 
