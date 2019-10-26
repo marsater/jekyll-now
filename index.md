@@ -27,9 +27,8 @@ Ekerö båtklubb anhåller tre stycken 606:or med fock, storsegel samt spinnacke
 Anmälan görs på **[denna sida](/anmalan)**
 senast den 6 juni 2020 klockan 23:55.
 
-|Sista anmälan | 6 juni 2020 |
-|--------------|-------------|
-|   |   |
+`Sista tid för anmälan, 6 juni 2020`
+
 
 
 ### Upplägg
