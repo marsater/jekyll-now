@@ -3,6 +3,11 @@ layout: default
 title: About
 permalink: /
 ---
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 
 ![alt text](/images/garda.png "Gardasjön")
 
@@ -29,7 +34,7 @@ senast den 6 juni 2020 klockan 23:55.
 
 |Sista anmälan | 6 juni 2020 |
 |--------------|-------------|
-
+{: .tablelines}
 
 ### Upplägg
 Följande tidsplan för 13 juni 2020 gäller.
@@ -41,6 +46,7 @@ Följande tidsplan för 13 juni 2020 gäller.
 | Första varningsignal      | 09:45         |
 | Sista påbörjade omgång    | 16:45         |
 | prisutdelning             | Snarast       |
+{: .tablelines}
 
 ### Hitta till *Ekerö Båtklubb*
 [*Se på Google maps*](https://www.google.com/maps/place/Eker%C3%B6+B%C3%A5tklubb/@59.2667027,17.7786075,19z/data=!4m5!3m4!1s0x465f7363b2d89bd5:0x28df1a2204b29069!8m2!3d59.2666787!4d17.7789856)
@@ -50,7 +56,7 @@ Följande tidsplan för 13 juni 2020 gäller.
 |Adress        | Fantholmsvägen, 178 37 Ekerö   |
 |Lat           | 59.266702                      |
 |Long          | 17.779156                      |
-
+{: .tablelines}
 
 #### Kontakta oss
 
