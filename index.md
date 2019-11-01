@@ -21,7 +21,7 @@ Besättningen består av 2 till 3 personer från olika klubbar. Man behöver all
 ### Båtar
 Ekerö båtklubb anhåller tre stycken 606:or med fock, storsegel samt spinnacker om möjligt.
 
-**Man behöver alltså inte fixa egen båt**, bara att anmäla och infinna sig
+`Man behöver alltså inte fixa egen båt, bara att anmäla och infinna sig`
 
 ### Anmälan
 Anmälan görs på **[denna sida](/anmalan)**
