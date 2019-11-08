@@ -10,7 +10,7 @@ permalink: /
 Lördagen den 13 juni 2020 arrangeras en sprintsegling för ungdomar på *Ekerö Båtklubb*. Syftet är att samla ungdomar från olika klubbar vid mälaren och bygga en grund för sprintsegling med J70-båtar.
 Besättningen består av 2 till 3 personer från olika klubbar. Man behöver alltså inte delta med en hel besättning, inte heller med egen båt då *Ekerö Båtklubb* står för båtarna.
 
-[*Se inbjudan*](./_posts/2019-11-08-inbjudan.md) *för mer detaljerad information*
+[*Se inbjudan*](https://marsater.github.io/Inbjudan/) *för mer detaljerad information*
 
 *Deltagarna* förväntas vara mellan cirka 15 - 25 år.
 
