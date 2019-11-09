@@ -4,7 +4,7 @@ title: Hem
 permalink: /
 ---
 
-![alt text](/images/garda.png "Gardasjön")
+<img src="/images/bild606.png" alt="Bild på 606:a"  width="100%"/>
 
 # Sprintsegling för ungdomar
 Lördagen den 13 juni 2020 arrangeras en sprintsegling för ungdomar på *Ekerö Båtklubb*. Syftet är att samla ungdomar från olika klubbar vid mälaren och bygga en grund för sprintsegling med J70-båtar.
@@ -27,14 +27,13 @@ Ekerö båtklubb anhåller tre stycken 606:or med fock, storsegel samt spinnacke
 Anmälan görs på **[denna sida](/anmalan)**
 senast den 6 juni 2020 klockan 23:55.
 
-`Sista tid för anmälan, 6 juni 2020`
 
 
 
 ### Upplägg
 Följande tidsplan för 13 juni 2020 gäller.
 
-|                           |Tid            |
+|                           |`Tid`          |
 |---------------------------|---------------|
 | Registrering              | 08:00 - 09:00 |
 | Rorsmansmöte              | 08:10         |
@@ -49,7 +48,7 @@ Följande tidsplan för 13 juni 2020 gäller.
 |--------------|--------------------------------|
 |Adress        | Fantholmsvägen, 178 37 Ekerö   |
 |Lat           | 59.266702                      |
-|Long          | 17.779156                      |
+|Lon           | 17.779156                      |
 
 
 #### Kontakta oss
